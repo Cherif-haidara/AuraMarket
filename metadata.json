@@ -1,0 +1,6 @@
+{
+  "name": "AuraMarket - Plateforme E-commerce & Marketplace IA",
+  "description": "Plateforme marketplace multi-vendeurs inspirée d'Amazon avec recommandations IA, gestion des stocks, checkout multi-moyens et dashboards client, vendeur et administrateur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
